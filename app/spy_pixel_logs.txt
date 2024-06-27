@@ -1,0 +1,4 @@
+Email Opened:
+Timestamp: 2024-06-27 22:27:47
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+IP Address: {"country_code":"Not found","country_name":"Not found","city":"Not found","postal":"Not found","latitude":"Not found","longitude":"Not found","IPv4":"IP Not found","state":"Not found"}

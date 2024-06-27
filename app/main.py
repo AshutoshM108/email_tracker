@@ -42,7 +42,3 @@ async def my_spy_pixel(request: Request):
 
     # Serve a transparent pixel image when navigating to .../image URL. "image/png" displays the image in PNG format.
     return FileResponse(filename, media_type="image/png", background=BackgroundTask(write_log))
-
-if __name__ == '__main__':
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=5000)
